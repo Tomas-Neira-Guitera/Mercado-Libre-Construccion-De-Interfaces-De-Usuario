@@ -1,16 +1,18 @@
-# Mercado Libre Construccion De Interfaces De Usuario
-Desarrollo completo de un proyecto inspirado en Mercado Libre, cubriendo tanto el frontend web como una aplicación móvil.
+# Enunciado
 
-Objetivos del proyecto:
-  • API REST: Implementación de una API para gestionar recursos
-  del modelo y garantizar la comunicación eficiente entre cliente y
-  servidor.
-  • Páginas web: Diseño y desarrollo de interfaces web para
-  servicios clave como productos, navegación, perfil de usuario,
-  carrito de compras, y categorías.
-  • Aplicación móvil: Creación de una app mobile con Expo CLI,
-  integrando navegación intuitiva y botones para cada sección,
-  mejorando significativamente la experiencia del usuario (UX).
-  
-  Tecnologías utilizadas: React, Expo CLI, Axios, JavaScript, CSS.
+https://github.com/unq-ui/material/tree/master/TPs/2024s2
 
+# Modelo
+
+https://github.com/unq-ui/mercadolibre-model
+
+## Tener en cuenta
+
+Los siguientes archivos y/o carpetas no se suben al repo
+
+* Los archivos .iml 
+* /target
+* /node_modules
+* .log
+
+Dentro de las carpetas que nosotros subimos tienen que estar su proyecto directamente, eso significa que por ejemplo dentro de la carpeta de arena espero ver el `pom.xml` y la carpeta `src`

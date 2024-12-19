@@ -1,0 +1,40 @@
+.primary-button {
+	border-radius: 0.5rem;
+	background: #3483fa;
+	color: white;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	font-weight: 400;
+	transition: all 0.2s;
+}
+
+.primary-button:hover {
+	background: #26559c;
+}
+
+.page-card {
+	padding: 1rem;
+	background-color: white;
+	box-shadow: 0 0.625rem 0.9375rem rgba(0, 0, 0, 0.1),
+		0 0.25rem 0.375rem rgba(0, 0, 0, 0.1);
+	border-radius: 0.5rem;
+}
+
+
+.line {
+    border-top: 1px solid var(--outline, #00000040); 
+    opacity: 1; 
+    transform: rotate(0.24deg); 
+}
+
+.textarea {
+    width: 100%; 
+    padding: 8px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    resize: none; 
+    min-height: 100px; 
+}
